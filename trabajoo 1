@@ -1,0 +1,30 @@
+>Para la el primer literal nos ayudamos con el diagrama de cuerpo libre y el principio de trabajo y energía cinética donde:
+
+$$T_{A}+U_{A-B}=T_{B}$$
+
+$$\frac{1}{2}*m*V_{A}^2+\int_A^B \vec{\sum{F}}\vec{{d}r}=\frac{1}{2}*m*V_{B}^2$$
+
+>Al inicio no tenemos velocidad por lo tanto la energía cinética en A es cero y como la fuerza es constante 
+sale de la integral 
+>Se llega a lo siguiente:
+$$\sum{F}*\int_A^B {d}r= \frac{1}{2}*m*V_{B}^2$$
+
+$$(P_{x}-F_{r})(AB)=\frac{1}{2}*m*V_{B}^2$$
+
+$$(m*g*\sin{60^o}-N*u)(AB)=\frac{1}{2}*m*V_{B}^2$$
+
+$$(m*g*\sin{60^o}-m*g*\cos{60^o}*u)(AB)=\frac{1}{2}*m*V_{B}^2$$
+
+>A continuación las masas se cancelan
+
+$$(g*\sin{60^o}-g*\cos{60^o}*u)(AB)=\frac{1}{2}*V_{B}^2$$
+
+$$2(g*\sin{60^o}-g*\cos{60^o}*u)(AB)=V_{B}^2$$
+
+$$ V_{B}=\sqrt{2(g*\sin{60^o}-g*\cos{60^o}*u)(AB)}$$
+
+$$V_{B}=\sqrt{2g(\sin{60^o}-\cos{60^o}*u)(AB)}$$
+
+$$V_{B}=\sqrt{2(9.81)(\sin{60^o}-\cos{60^o}*(0.40))(0.5)}$$
+
+$$V_{B}=2.556 [m/s]$$
